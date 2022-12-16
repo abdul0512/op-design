@@ -84,6 +84,11 @@ a:hover{
 
 }
 
+.copyright{
+  color: #eaf6f6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
 .top-cloud{
     position: absolute;
     right: 300px;
